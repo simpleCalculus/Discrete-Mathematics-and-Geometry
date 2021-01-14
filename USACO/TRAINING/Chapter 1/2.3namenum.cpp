@@ -3,7 +3,6 @@ ID: sah2020
 PROG: namenum
 LANG: C++14
 */
-
 //# include <iostream>
 # include <vector>
 # include <algorithm>
