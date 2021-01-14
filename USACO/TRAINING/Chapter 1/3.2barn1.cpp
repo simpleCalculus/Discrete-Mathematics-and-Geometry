@@ -3,6 +3,7 @@ ID: sah2020
 PROG: barn1
 LANG: C++14
 */
+
 //# include <iostream>
 # include <fstream>
 # include <algorithm>
